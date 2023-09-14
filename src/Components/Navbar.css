@@ -1,0 +1,20 @@
+.color-palet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color-palet div{
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    cursor: pointer;
+}
+.color-palet .orange{
+    background-color: orange;
+}
+.color-palet .green{
+    background-color: green;
+}
+.color-palet .orangered{
+    background-color: orangered;
+}
